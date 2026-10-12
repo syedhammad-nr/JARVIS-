@@ -138,7 +138,7 @@ This project demonstrates practical experience with Python modules, APIs, speech
 
 Syed Hammad
 
-Computer Science and Engineering – Artificial Intelligence and Machine Learning
+Computer Science and Engineer – Artificial Intelligence and Machine Learning
 
 ## License
 
